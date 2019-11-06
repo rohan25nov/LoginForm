@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="bootstrap.min.css">
 </head>
 <body style="padding-top: 4%">
+    <h1>Hello EveryOne</h1>
     <div class="container">
         <div class="col-lg-4 col-lg-push-4">
             <form action="" method="post">
